@@ -2,7 +2,9 @@
 
 I am honored to have accepted a scholarship from the **Politecnico di Torino**'s Department of Energy after our team's success in a prestigious international Galileo Ferraris' Contest.
 
-<img src="./Award Certificate.png" alt="Galileo Ferraris Contest Award Certificate" width="70%"/>
+<p align="center">
+  <img src="./Award Certificate.png" alt="Galileo Ferraris Contest Award Certificate" width="70%"/>
+</p>
 
 | | |
 | :--- | :--- |
