@@ -6,7 +6,7 @@ I am honored to have accepted a scholarship from the **Politecnico di Torino**'s
 
 | | |
 | :--- | :--- |
-| **Competition** | International "GalFer Contest" |
+| **Competition** | International "Galileo Ferraris' Contest" |
 | **Organizer** | [Politecnico di Torino](https://github.com/cadema-PoliTO) |
 | **Achievement** | 2nd Place (Novelty Category, Academic Teams) |
 | **Award** | Scholarship for "assessing data-driven methodologies for the multi-physics simulation of traction electrical machines" |
