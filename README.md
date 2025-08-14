@@ -1,3 +1,10 @@
+---
+## 🚀 Announcing My New Course: Machine Learning for Engineers
+
+I'm excited to announce that I will be starting a new course focused on the practical application of machine learning in engineering. 
+
+**[➡️ Click here to view the course syllabus and materials!](https://github.com/toohidsharifi/Machine-Learning-Course-for-Engineers)**
+
 ## 🏆 Award & Scholarship: Galileo Ferraris' Contest 2025
 
 I am honored to have accepted a scholarship from the **Politecnico di Torino**'s Department of Energy after our team's success in a prestigious international Galileo Ferraris' Contest.
